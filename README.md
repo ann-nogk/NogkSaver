@@ -1,10 +1,10 @@
 # 乃木坂46 MSG 備份工具 GUI (Unofficial)
 
-這是一個為 `colmsg` 命令列工具設計的圖形化介面 (GUI)。
+這是一個為 `colmsg` 命令列工具設計的圖形化介面 (GUI)。<br>
 讓使用者可以透過簡單的視窗介面來備份 MSG，並生方便好讀的 HTML 離線瀏覽器。
 
 ## 介面預覽
-![操作介面截圖](https://你的圖片連結.png)
+![操作介面截圖](https://github.com/user-attachments/assets/c7ab7a22-6764-40cd-8919-e6ecb0611cc4)
 *(這裡展示操作畫面，讓大家知道只要貼上 Token 就能用)*
 
 ## 功能特色
