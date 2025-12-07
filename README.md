@@ -38,7 +38,7 @@
 ```text
 NogiBackup/
 ├── colmsg.exe        <-- 核心程式 (必須存在)
-├── NogkSaver.exe.exe <-- 本工具 
+├── NogkSaver.exe     <-- 本工具 
 └── nogizaka/         <-- (備份後會自動產生此資料夾)
 ```
 ### 3. 操作步驟
@@ -63,7 +63,8 @@ NogiBackup/
 # 💬 交流與回饋
 如果你有任何使用上的問題、想要許願新功能，或是想聊聊關於備份的心得：
 
-回報 Bug：請使用 [Issues]( https://github.com/ann-nogk/Nogi-MSG-GUI/issues) 頁面。<br>
-閒聊與討論：歡迎至 [Discussions]( https://github.com/ann-nogk/Nogi-MSG-GUI/discussions) 區留言。
+回報 Bug：請使用 [Issues](../../issues) 頁面。<br>
+閒聊與討論：歡迎至 [Discussions](../../discussions) 區留言。
+
 
 
