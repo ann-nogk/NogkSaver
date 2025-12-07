@@ -37,9 +37,9 @@
 請確保您的資料夾結構如下：(將本工具與 `colmsg.exe` 放在同一資料夾)
 ```text
 NogiBackup/
-├── colmsg.exe       <-- 核心程式 (必須存在)
-├── gui.exe          <-- 本工具 
-└── nogizaka/        <-- (備份後會自動產生此資料夾)
+├── colmsg.exe        <-- 核心程式 (必須存在)
+├── NogkSaver.exe.exe <-- 本工具 
+└── nogizaka/         <-- (備份後會自動產生此資料夾)
 ```
 ### 3. 操作步驟
 1.  開啟 `NogkSaver.exe`
@@ -65,4 +65,5 @@ NogiBackup/
 
 回報 Bug：請使用 [Issues]( https://github.com/ann-nogk/Nogi-MSG-GUI/issues) 頁面。<br>
 閒聊與討論：歡迎至 [Discussions]( https://github.com/ann-nogk/Nogi-MSG-GUI/discussions) 區留言。
+
 
