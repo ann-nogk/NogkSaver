@@ -1,6 +1,6 @@
 # 🟣 乃木坂46 MSG 備份工具 GUI (非官方)
 
-一個基於 [colmsg](https://github.com/proshunsuke/colmsg) 的圖形化介面工具，專為乃木坂46 Message App 設計。提供備份和**離線網頁瀏覽**。<img width="320" height="450" alt="image" src="https://github.com/user-attachments/assets/daeff3ea-47c7-4cdd-b701-0f1ed4380045" />
+一個基於 [colmsg](https://github.com/proshunsuke/colmsg) 的圖形化介面工具，專為乃木坂46 Message App 設計。提供備份和**離線網頁瀏覽**。
 ## ✨ 主要功能 
 ### 📥 備份與下載管理
 *   **直覺式 GUI 介面**：免去輸入繁雜指令，直接透過視窗操作 `colmsg`。
@@ -38,11 +38,11 @@
 ```text
 NogiBackup/
 ├── colmsg.exe       <-- 核心程式 (必須存在)
-├── NogkSaver.exe    <-- 本工具 
+├── gui.exe          <-- 本工具 
 └── nogizaka/        <-- (備份後會自動產生此資料夾)
 ```
 ### 3. 操作步驟
-1.  開啟 `NogkSaver.exe`
+1.  開啟 `gui.exe`
 2.  **Refresh Token：** 填入您抓包取得的 Refresh Token（需自行取得）
 3.  **儲存位置：** 選擇備份檔案存放的路徑。
 4.  點擊 **「開始備份」**
