@@ -12,8 +12,8 @@
     <td><img src="https://github.com/user-attachments/assets/f2bc7a5e-ea5d-4b98-94a7-2b63a40de7fb" width="100%"></td>
   </tr>
   <tr>
-    <td align="center">排序1</td>
-    <td align="center">排序2</td>
+    <td align="center">更改排序前</td>
+    <td align="center">更改排序後</td>
   </tr>
 </table>
 
@@ -83,6 +83,7 @@ NogiBackup/
 
 回報 Bug：請使用 [Issues](../../issues) 頁面。<br>
 閒聊與討論：歡迎至 [Discussions](../../discussions) 區留言。
+
 
 
 
