@@ -38,7 +38,7 @@
 ```text
 NogiBackup/
 ├── colmsg.exe       <-- 核心程式 (必須存在)
-├── NogkSaver.exe          <-- 本工具 
+├── NogkSaver.exe    <-- 本工具 
 └── nogizaka/        <-- (備份後會自動產生此資料夾)
 ```
 ### 3. 操作步驟
