@@ -4,9 +4,19 @@
 <img width="320" height="450" alt="主畫面" src="https://github.com/user-attachments/assets/091def9b-ad13-484b-b8cb-dcd41b313343" />
 <img width="320" height="450" alt="index" src="https://github.com/user-attachments/assets/ba633018-9b99-4367-bf06-866214c40352" />
 ##
-<img width="270" height="205" alt="排序1" src="https://github.com/user-attachments/assets/fb1eeee8-0a4d-4492-a4d1-9904ea5b4ddb" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="270" height="205" alt="排序2" src="https://github.com/user-attachments/assets/f2bc7a5e-ea5d-4b98-94a7-2b63a40de7fb" />
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/fb1eeee8-0a4d-4492-a4d1-9904ea5b4ddb" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/f2bc7a5e-ea5d-4b98-94a7-2b63a40de7fb" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">排序1</td>
+    <td align="center">排序2</td>
+  </tr>
+</table>
+
 
 ## ✨ 主要功能 
 ### 📥 備份與下載管理
@@ -73,6 +83,7 @@ NogiBackup/
 
 回報 Bug：請使用 [Issues](../../issues) 頁面。<br>
 閒聊與討論：歡迎至 [Discussions](../../discussions) 區留言。
+
 
 
 
